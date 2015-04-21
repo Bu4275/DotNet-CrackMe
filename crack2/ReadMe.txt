@@ -1,0 +1,1 @@
+Try to Crack License.dll
