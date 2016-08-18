@@ -1,0 +1,9 @@
+C:\Users\bubu\Documents\visual studio 2015\Projects\ClickMe\ClickMe\bin\Release\ClickMe.exe.config
+C:\Users\bubu\Documents\visual studio 2015\Projects\ClickMe\ClickMe\bin\Release\ClickMe.exe
+C:\Users\bubu\Documents\visual studio 2015\Projects\ClickMe\ClickMe\bin\Release\ClickMe.pdb
+C:\Users\bubu\Documents\visual studio 2015\Projects\ClickMe\ClickMe\obj\Release\ClickMe.csprojResolveAssemblyReference.cache
+C:\Users\bubu\Documents\visual studio 2015\Projects\ClickMe\ClickMe\obj\Release\ClickMe.Form1.resources
+C:\Users\bubu\Documents\visual studio 2015\Projects\ClickMe\ClickMe\obj\Release\ClickMe.Properties.Resources.resources
+C:\Users\bubu\Documents\visual studio 2015\Projects\ClickMe\ClickMe\obj\Release\ClickMe.csproj.GenerateResource.Cache
+C:\Users\bubu\Documents\visual studio 2015\Projects\ClickMe\ClickMe\obj\Release\ClickMe.exe
+C:\Users\bubu\Documents\visual studio 2015\Projects\ClickMe\ClickMe\obj\Release\ClickMe.pdb
